@@ -1,2 +1,3 @@
 # myweb-noppakun
-การสร้าง Repository เก็บ Website เพื่อใช้แสดง
+การสร้าง Repositoryเก็บหน้าแสดงผล Website การ์ตูนของนายนพคุณ บุญส่ง
+สร้างโดยใช้ Github เพื่อออก URL
